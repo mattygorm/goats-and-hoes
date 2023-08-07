@@ -7,12 +7,12 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>In the realm of men and their will to compete, a league stood tall amidst the smoke of battles and the chorus of camaraderie. </p>
+  <p>"Goats and Hoes" they named it, where heroes are forged not on battlefields of old, but on the green digital pastures of fantasy football. </p>
+  <p>Every fall, warriors gather, not with shields and swords, but with wit and strategy, to fight for the honor that only few will grasp. </p>
+  <p>In the straightforward prose reminiscent of old tales and quiet taverns, this website chronicles their pursuits, their triumphs, and their downfalls. </p>
+  <p>As with the timeless works of Hemingway, we value simplicity, grit, and the raw drama of man versus man, team versus team. Here, legends are born and myths are shattered. </p>
+  <p>Welcome to "Goats and Hoes." Where the game, like life, is played hard and true.</p>
 `;
 
 /*   STEP 3   */
